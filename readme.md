@@ -25,16 +25,11 @@ Create an effective method for customer outreach for underperforming groups.
 
 # The Beef
 
-Initial Data Wrangling and Some EDA can be found in:
-+ InitialDataWrangling.ipynb
-Dead end Exploration 
-+ FalseStartEDA.ipynb
-Full EDA and Initial Analysis:
-+ EDA and Analysis.ipynb
-Customer Segmentation and Clustering
-+ Segmentation.ipynb
-Supervised Model and predictions
-+ Predicting.ipynb
+- Initial Data Wrangling and Some EDA can be found in:  **InitialDataWrangling.ipynb**
+- Dead end Exploration:  **FalseStartEDA.ipynb**
+- Full EDA and Initial Analysis: **EDA and Analysis.ipynb**
+- Customer Segmentation and Clustering: **Segmentation.ipynb**
+- Supervised Model and predictions: **Predicting.ipynb**
 
 # Stopping to Smell the Roses (some preview pictures)
 <br>
